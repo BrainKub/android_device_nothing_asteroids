@@ -20,6 +20,8 @@
 
 # Lights
 /dev/led_strips    u:object_r:led_device:s0
+/sys/devices/platform/soc/984000.i2c/i2c-0/0-0020/leds/aw210xx_led(/.*)?                          u:object_r:sysfs_leds:s0
+/sys/devices/platform/soc/8c0000.qcom,qupv3_1_geni_se/880000.i2c/i2c-7/7-003a/leds/aw20036_led(/.*)? u:object_r:sysfs_leds:s0
 
 # NFC
 /vendor/bin/hw/android\.hardware\.nfc-service\.st    u:object_r:hal_nfc_default_exec:s0
