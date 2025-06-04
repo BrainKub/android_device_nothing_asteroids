@@ -671,6 +671,7 @@ PRODUCT_VENDOR_PROPERTIES += \
 # Soong
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
+    hardware/nothing \
     kernel/nothing/sm7635 \
     kernel/nothing/sm7635-modules
 
