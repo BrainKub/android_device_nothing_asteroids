@@ -585,6 +585,11 @@ PRODUCT_PACKAGES += \
     WifiResMainlineTarget \
     WifiResTarget
 
+# Paranoid Glyph
+PRODUCT_PACKAGES += \
+    ParanoidGlyphPhone3a \
+    GlyphAdapter
+
 # Partitions
 PRODUCT_BUILD_RECOVERY_IMAGE := true
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
