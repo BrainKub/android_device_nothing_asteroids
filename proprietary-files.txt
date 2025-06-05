@@ -110,7 +110,6 @@ vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_3.4_enpuv4.pmd
 vendor/etc/acdbdata/volcano_qrd_wsa883x/QRD_acdb_cal.acdb
 vendor/etc/acdbdata/volcano_qrd_wsa883x/QRD_workspaceFileXml.qwsp
 vendor/etc/lvacfs_params/1mic/LVACFS_Calibration360.dat
-vendor/etc/lvacfs_params/1mic/LVACFS_Configuration.txt
 vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID10_He_USB_Digital_48K.txt
 vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID11_He_USB_Digital_16K.txt
 vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID12_He_BT_16K.txt
@@ -120,7 +119,6 @@ vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID7_MIC_He.txt
 vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID8_MIC_He_App.txt
 vendor/etc/lvacfs_params/1mic/LVIMFS_Parameter_xxxx_ID9_He_Unprocess.txt
 vendor/etc/lvacfs_params/2mic/LVACFS_Calibration360.dat
-vendor/etc/lvacfs_params/2mic/LVACFS_Configuration.txt
 vendor/etc/lvacfs_params/2mic/LVIMFS_Parameter_xxxx_ID10_He_USB_Digital_48K.txt
 vendor/etc/lvacfs_params/2mic/LVIMFS_Parameter_xxxx_ID11_He_USB_Digital_16K.txt
 vendor/etc/lvacfs_params/2mic/LVIMFS_Parameter_xxxx_ID12_He_BT_16K.txt
